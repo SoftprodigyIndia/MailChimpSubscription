@@ -1,5 +1,5 @@
-# MailChimpSubscription
-MailChimp Component to add users to Subscriber List
+# MailChimp Subscription
+MailChimp Component to add users to Subscriber List.
 It is a MailChimp Component to add user's email entered in field directly to Subscribers List with sending them emails for subscription. This component helps in fetching web user data and prevents disturbing them with unwanted emails.
 
 # Usage Instructions
