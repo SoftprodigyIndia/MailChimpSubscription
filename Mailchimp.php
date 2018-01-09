@@ -11,8 +11,8 @@ class Mailchimp
     public static function addEmailToList($email)
     {
 
-        $apiKey = 'ab412eabc2377880a8166624684b403c-us17'; // API key for mailchimp
-        $listID = '67ebeeb19b'; //Id of newsletter list
+        $apiKey = 'YOUR_API_KEY_COMES_HERE'; // API key for mailchimp
+        $listID = 'YOUR_LIST_ID_COMES_HERE'; //Id of newsletter list
         
         // MailChimp API URL
         $memberID = md5(strtolower($email));
